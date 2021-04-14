@@ -1,0 +1,3 @@
+C:\Users\daria\Documents\Session 2 Poly\LOG1410 - analyse et ccpt. des log\LOG1410\Patrons TP5\Patron Fabrique\x64\Debug\Patron Fabrique.exe
+C:\Users\daria\Documents\GitHub\LOG1410\Patrons TP5\Patron Fabrique\x64\Debug\Patron Fabrique.exe
+C:\Users\daria\Documents\GitHub\LOG1410\Patrons TP5\Patron Fabrique\x64\Debug\Patron Fabrique.pdb

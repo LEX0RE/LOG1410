@@ -1,14 +1,14 @@
 
 #include "FabriqueDeSymboles.hpp"
 
-SymboleDeMusique* CreateurBlanche::creerSymbole() {
-	return new Blanche();
+std::unique_ptr<SymboleDeMusique> CreateurBlanche::creerSymbole() {
+	return std::make_unique<Blanche>(Blanche());
 }
 
-SymboleDeMusique* CreateurNoire::creerSymbole() {
-	return new Noire();
+std::unique_ptr<SymboleDeMusique> CreateurNoire::creerSymbole() {
+	return std::make_unique<Noire>(Noire());
 }
 
-SymboleDeMusique* CreateurCroche::creerSymbole() {
-	return new Croche();
+std::unique_ptr<SymboleDeMusique> CreateurCroche::creerSymbole() {
+	return std::make_unique<Croche>(Croche());
 }

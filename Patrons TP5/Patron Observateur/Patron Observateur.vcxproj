@@ -147,7 +147,7 @@
   <ItemGroup>
     <ClCompile Include="ChampTexte.cpp" />
     <ClCompile Include="DroitDauteur.cpp" />
-    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Observateur.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

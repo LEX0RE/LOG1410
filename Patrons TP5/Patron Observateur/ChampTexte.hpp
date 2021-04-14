@@ -1,7 +1,7 @@
 #pragma once
 
+#include "Observateur.hpp"
 #include <string>
 
-class ChampTexte {
-	std::string texte;
+class ChampTexte : public Observable {
 };
